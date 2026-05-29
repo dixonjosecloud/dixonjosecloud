@@ -101,34 +101,15 @@ Passionate about designing and securing modern cloud-native environments across 
 
 ---
 
-## 🏗️ Security Architecture Domains
-
-```text
-Cloud Security
-     |
-IAM & Zero Trust
-     |
-DevSecOps
-     |
-SIEM / XDR
-     |
-Threat Detection
-     |
-Compliance
-     |
-Automation
-```
-
----
-
 ## 📜 Certifications
 
-* CISM
-* Cloud Security
-* Cybersecurity Architecture
-* IAM & Zero Trust
-* DevSecOps & Automation
-* Security Operations & Incident Response
+* CISM (Certified Information Security Manager from ISACA)
+* CompTIA Security+
+* GCP Professional Cloud Security Engineer Certification
+* Red Hat Certified OpenShift Administrator
+* Microsoft Certified: Azure Solutions Architect Expert
+* AWS Certified Solutions Architect - Professional
+* ITIL V3 Foundation V3 
 
 ---
 
