@@ -1,4 +1,4 @@
-# Hi 👋 I'm Dixon Jose Paulose Selvi
+# Hi 👋 I'm Dixon Jose PAULOSE SELVI
 
 ## Cybersecurity Engineer | DevSecOps | DevOps | AWS | Azure | GCP | IAM | Zero Trust | Kubernetes Security
 
